@@ -1,0 +1,65 @@
+header{
+  background-color: yellow;
+  width: 100%;
+  height: 200px;
+}
+footer{
+  background-color: green;
+  width: 100%;
+  height: 200px;
+}
+#cel1{
+  background-color: #FFCCFF;
+  color: blue;
+}
+#cel2{
+  background-color: #FFCCCC;
+}
+#cel3{
+  background-color: #FFCC99;
+  color: brown;
+}#cel4{
+  background-color: #FFCC66;
+}
+#cel5{
+  background-color: #FFCC33;
+  color: red;
+}
+#cel6{
+  background-color: #FFCC00;
+}
+#cel7{
+  background-color: #CCCCFF;
+  color: purple;
+}
+#cel8{
+  background-color: #CCCCCC;
+}
+#cel9{
+  background-color: #CCCC99;
+  color: green;
+}
+#cel10{
+  background-color: #CCCC66;
+}
+#cel11{
+  background-color: #CCCC33;
+  color: yellow;
+}
+#cel12{
+  background-color: #CCCC00;
+}
+#cel13{
+  background-color: #99CCFF;
+  color: white;
+}
+#cel14{
+  background-color: #99CCCC;
+}
+#cel15{
+  background-color: #99CC99;
+  color: orange;
+}
+#cel16{
+  background-color: #99CC66;
+}
